@@ -1,0 +1,8 @@
+{
+  "normal": [0.0, 0.0, 1.0],
+  "centroid": [50.0, 50.0, 0.0],
+  "tolerances": {
+    "normal_angular_deg": 0.1,
+    "distance_to_plane": 0.01
+  }
+}

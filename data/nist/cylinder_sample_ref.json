@@ -1,0 +1,7 @@
+{
+  "radius": 25.0,
+  "axis": [0.0, 0.0, 1.0],
+  "center": [0.0, 0.0, 50.0],
+  "length": 100.0,
+  "tolerances": {"radius": 0.02, "axis_angular_deg": 0.02, "cylindricity": 0.02}
+}

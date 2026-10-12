@@ -1,0 +1,38 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python caches and tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Środowisko i sekrety
+.env*
+secrets.toml
+
+# Konfiguracja IDE
+.vscode/
+.idea/
+
+# Logi i zrzuty
+*.log
+*.htm
+*.html
+GD&T Cloud Inspector_files/
+
+# Lokalne dane testowe i katalogi tymczasowe
+.test-data/
